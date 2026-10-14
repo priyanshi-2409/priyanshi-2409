@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Priyanshi 👋
 
-<!--
-**priyanshi-2409/priyanshi-2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UWE Bristol focused on backend development, Python, Flask, SQL, and building clean, practical projects.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Languages: Python, C, SQL, C++ 
+- Backend: Flask, REST APIs  
+- Frontend: HTML, CSS  
+- Tools: Git, GitHub, VS Code  
+- Concepts: DSA fundamentals, OOP, DB design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Improving
+- Backend architecture & clean code practices  
+- Data Structures & Algorithms  
+- Full‑stack project development  
+- Preparing for internships (Python + Backend)
+
+### 🚀 Featured Projects
+- **AI Code Reviewer** — Flask-based tool analyzing code quality with modular backend logic and responsive UI.  
+- **BCE Project** — Backend + SQL workflow demonstrating structured engineering patterns.  
+- **Portfolio Tools** — Practical utilities showcasing Python fundamentals and GitHub workflow.
+
+### 🎯 Open To
+- Software Engineering, Computer Science and AI/ML Internships (Backend / Full‑Stack / Algorithms)  
+- Python or Flask-based development roles
